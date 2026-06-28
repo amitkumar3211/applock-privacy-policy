@@ -195,8 +195,8 @@ export default function App() {
           If you have any questions or concerns about this Privacy Policy or our
           practices, please contact us at:
         </p>
-        <a href="mailto:support@applock.com" className="contact-email">
-          support@applock.com
+        <a href="mailto:amitkumar326310@gmail.com" className="contact-email">
+          amitkumar326310@gmail.com
         </a>
       </Section>
 
